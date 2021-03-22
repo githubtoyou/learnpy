@@ -1,4 +1,2 @@
-name = input("Give me your name: ")
-print("Your name is " + name)
-
-print("999")
+for i,value in enumerate(['a','B','c']):
+    print(i,value)
