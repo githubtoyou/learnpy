@@ -2,18 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="736f6f52-c78c-41f7-8d61-14e537aab89e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/advanced-oom/costom-madeClass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-oom/multipleInherit.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-oom/property.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/advanced-oom/slots.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oom/0322lxf.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oom/getObject.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oom/instanceAttrAndClassAttr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oom/subclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/oom/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/stdout.log" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/0322lxf.py" beforeDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +27,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/advanced-oom/costom-madeClass.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="188">
-              <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+            <state relative-caret-position="54">
+              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
@@ -75,9 +64,9 @@
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds">
-    <option name="x" value="608" />
-    <option name="y" value="18" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1101" />
+    <option name="y" value="94" />
     <option name="width" value="1036" />
     <option name="height" value="733" />
   </component>
@@ -116,7 +105,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -294,7 +283,7 @@
     </recent_temporary>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\hq\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -307,9 +296,9 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="608" y="18" width="1036" height="733" extended-state="0" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.247495" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13013698" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Version Control" order="0" />
@@ -317,7 +306,7 @@
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info active="true" anchor="bottom" id="Terminal" order="5" visible="true" weight="0.37562606" />
+      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.4262473" />
       <window_info anchor="bottom" id="Run" order="6" weight="0.39398998" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.34173056" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
@@ -519,8 +508,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/advanced-oom/costom-madeClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="188">
-          <caret line="52" column="16" selection-start-line="52" selection-start-column="16" selection-end-line="52" selection-end-column="16" />
+        <state relative-caret-position="54">
+          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
           <folding>
             <element signature="e#24#33#0" expanded="true" />
           </folding>
