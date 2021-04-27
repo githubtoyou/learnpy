@@ -51,3 +51,8 @@ class Fib2(object):
             return L
 print(Fib2()[10])
 print(Fib2()[0:5])
+
+class student(object):
+
+    def __init__(self):
+        self.name = 'Michaels'
