@@ -49,10 +49,44 @@ class Fib2(object):
                     L.append(a)
                 a, b = b, a + b
             return L
-print(Fib2()[10])
-print(Fib2()[0:5])
+# print(Fib2()[10])
+# print(Fib2()[0:5])
 
-class student(object):
-
+class Student2(object):
     def __init__(self):
         self.name = 'Michaels'
+    # def __getattr__(self, attr):
+    #     if attr=='score':
+    #         return  99
+    # def __getattr__(self, attr):
+    #     elif attr == 'age':
+    #         return lambda: 25
+    def __getattr__(self, attr):
+        if attr == 'agg':
+            return lambda: 250000
+        raise AttributeError('\'Student\' object has no attribute \'%s\'' % attr)
+
+class Chain(object):
+    def __init__(self, path = ''):
+        self._path = path
+    def __getattr__(self, path):
+        return Chain('%s%s' % (self._path, path))
+    def __str__(self):
+        return self._path
+    __repr__ = __str__
+
+# print(Chain().status.user.timeline.list)
+# Chain().status.user.timeline.list
+
+class Student3(object):
+    def __init__(self,name):
+        self.name = name
+
+    def __call__(self):
+        print('My name is %s .' % self.name)
+
+# s = Student3('Michael')
+# s()
+# t=callable(Student3)
+# print(t)
+
