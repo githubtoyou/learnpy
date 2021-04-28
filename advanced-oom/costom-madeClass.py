@@ -7,7 +7,7 @@ import types
 class Student(object):
     def __init__(self, name):
         self.name = name
-    def __str__(self):
+    def __str__(self):  #定制类：只要定义好__str__()方法，就可以返回一个好看的字符串；
         return 'Student object (name:%s)' % self.name
     __repr__ = __str__
 

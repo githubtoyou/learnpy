@@ -1,8 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="736f6f52-c78c-41f7-8d61-14e537aab89e" name="Default Changelist" comment="">
+    <list default="true" id="736f6f52-c78c-41f7-8d61-14e537aab89e" name="Default Changelist" comment="1">
+      <change afterPath="$PROJECT_DIR$/error-test/errorProcess.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-oom/costom-madeClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-oom/costom-madeClass.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/advanced-oom/metaClass.py" beforeDir="false" afterPath="$PROJECT_DIR$/advanced-oom/metaClass.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -12,23 +15,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/advanced-oom/multipleInherit.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="114">
-              <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
-              <folding>
-                <element signature="e#24#33#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/advanced-oom/costom-madeClass.py">
+        <entry file="file://$PROJECT_DIR$/error-test/errorProcess.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="54">
-              <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+            <state relative-caret-position="110">
+              <caret line="91" column="19" lean-forward="true" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
               <folding>
                 <element signature="e#24#33#0" expanded="true" />
               </folding>
@@ -45,6 +36,16 @@
       </list>
     </option>
   </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>__str__</find>
+      <find>column_type</find>
+    </findStrings>
+    <dirStrings>
+      <dir>F:\learnpy\advanced-oom</dir>
+      <dir>F:\learnpy</dir>
+    </dirStrings>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
@@ -60,15 +61,19 @@
         <option value="$PROJECT_DIR$/advanced-oom/slots.py" />
         <option value="$PROJECT_DIR$/advanced-oom/property.py" />
         <option value="$PROJECT_DIR$/advanced-oom/multipleInherit.py" />
+        <option value="$PROJECT_DIR$/advanced-oom/unum.py" />
         <option value="$PROJECT_DIR$/advanced-oom/costom-madeClass.py" />
+        <option value="$PROJECT_DIR$/advanced-oom/metaClass.py" />
+        <option value="$PROJECT_DIR$/error-test/error.py" />
+        <option value="$PROJECT_DIR$/error-test/errorProcess.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="1101" />
-    <option name="y" value="94" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="712" />
+    <option name="y" value="45" />
     <option name="width" value="1036" />
-    <option name="height" value="733" />
+    <option name="height" value="930" />
   </component>
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -78,7 +83,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -89,7 +93,7 @@
             <path>
               <item name="learnpy" type="b2602c69:ProjectViewProjectNode" />
               <item name="learnpy" type="462c0819:PsiDirectoryNode" />
-              <item name="advanced-oom" type="462c0819:PsiDirectoryNode" />
+              <item name="error-test" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="learnpy" type="b2602c69:ProjectViewProjectNode" />
@@ -100,6 +104,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -124,7 +129,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.costom-madeClass">
+  <component name="RunManager" selected="Python.errorProcess">
     <configuration name="0322lxf" type="PythonConfigurationType" factoryName="Python">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -146,7 +151,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="costom-madeClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="costom-madeClass" type="PythonConfigurationType" factoryName="Python">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -167,7 +172,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="instanceAttrAndClassAttr" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="errorProcess" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -175,11 +180,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/oom" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/error-test" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/oom/instanceAttrAndClassAttr.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/error-test/errorProcess.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="metaClass" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced-oom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced-oom/metaClass.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -230,27 +256,6 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="slots" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced-oom" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced-oom/slots.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
     <configuration name="subclass" type="PythonConfigurationType" factoryName="Python">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -272,13 +277,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="unum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/advanced-oom" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/advanced-oom/unum.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.costom-madeClass" />
+        <item itemvalue="Python.errorProcess" />
+        <item itemvalue="Python.metaClass" />
+        <item itemvalue="Python.unum" />
         <item itemvalue="Python.multipleInherit" />
         <item itemvalue="Python.property" />
-        <item itemvalue="Python.slots" />
-        <item itemvalue="Python.instanceAttrAndClassAttr" />
       </list>
     </recent_temporary>
   </component>
@@ -293,22 +319,59 @@
       <option name="presentableId" value="Default" />
       <updated>1616384918974</updated>
     </task>
+    <task id="LOCAL-00001" summary="1">
+      <created>1619490188835</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1619490188835</updated>
+    </task>
+    <task id="LOCAL-00002" summary="1">
+      <created>1619490963130</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1619490963131</updated>
+    </task>
+    <task id="LOCAL-00003" summary="1">
+      <created>1619514871334</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1619514871334</updated>
+    </task>
+    <task id="LOCAL-00004" summary="1">
+      <created>1619519205572</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1619519205572</updated>
+    </task>
+    <task id="LOCAL-00005" summary="1">
+      <created>1619574411630</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1619574411630</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="952" y="44" width="1036" height="930" extended-state="0" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.13013698" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.247495" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
-      <window_info anchor="bottom" id="Version Control" order="0" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.32888147" />
       <window_info anchor="bottom" id="Python Console" order="1" weight="0.3287879" />
       <window_info anchor="bottom" id="Event Log" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="3" />
       <window_info anchor="bottom" id="Find" order="4" />
-      <window_info anchor="bottom" id="Terminal" order="5" visible="true" weight="0.4262473" />
-      <window_info anchor="bottom" id="Run" order="6" weight="0.39398998" />
-      <window_info anchor="bottom" id="Debug" order="7" weight="0.34173056" />
+      <window_info anchor="bottom" id="Terminal" order="5" weight="0.46231157" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" visible="true" weight="0.41331658" />
+      <window_info anchor="bottom" id="Debug" order="7" weight="0.34170854" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="10" />
@@ -316,6 +379,10 @@
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
     </layout>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="1" />
+    <option name="LAST_COMMIT_MESSAGE" value="1" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -496,10 +563,13 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/.idea/workspace.xml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
     <entry file="file://$PROJECT_DIR$/advanced-oom/multipleInherit.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="114">
-          <caret line="6" column="21" lean-forward="true" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
+          <caret line="6" column="21" selection-start-line="6" selection-start-column="21" selection-end-line="6" selection-end-column="21" />
           <folding>
             <element signature="e#24#33#0" expanded="true" />
           </folding>
@@ -508,8 +578,38 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/advanced-oom/costom-madeClass.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="34" column="30" lean-forward="true" selection-start-line="34" selection-start-column="30" selection-end-line="34" selection-end-column="30" />
+        <state relative-caret-position="171">
+          <caret line="9" column="60" selection-start-line="9" selection-start-column="60" selection-end-line="9" selection-end-column="60" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced-oom/unum.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="4" selection-end-column="12" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/advanced-oom/metaClass.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="209">
+          <caret line="86" lean-forward="true" selection-start-line="86" selection-end-line="86" />
+          <folding>
+            <element signature="e#24#33#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/error-test/errorProcess.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="110">
+          <caret line="91" column="19" lean-forward="true" selection-start-line="91" selection-start-column="19" selection-end-line="91" selection-end-column="19" />
           <folding>
             <element signature="e#24#33#0" expanded="true" />
           </folding>
