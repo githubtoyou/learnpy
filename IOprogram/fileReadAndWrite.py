@@ -1,10 +1,16 @@
-#-*- coding = utf-8 -*-
-#@Time:2021/5/416:39
-#@Author:Charlie
-#@File:fileReadAndWrite.py
-#@Software:PyCharm
+# -*- coding = utf-8 -*-
+# @Time:2021/5/416:39
+# @Author:Charlie
+# @File:fileReadAndWrite.py
+# @Software:PyCharm
 
-import os, types, logging, pdb, sys, functools, unittest
+import os
+import types
+import logging
+import pdb
+import sys
+import functools
+import unittest
 # try:
 #     f = open('F:\learnpy\IOprogram\io.txt', 'r')
 #     ff = f.read()
@@ -23,8 +29,9 @@ import os, types, logging, pdb, sys, functools, unittest
 
 # f = open(r'F:\learnpy\IOprogram\t.jpg', 'rb')
 # print(f.read())
-with open('F:\learnpy\IOprogram\io.txt', 'a') as f:
+import time
+with open('F:\\learnpy\\IOprogram\\io.txt', 'a') as f:
     f.write('\n测试!')
 
-with open('F:\learnpy\IOprogram\io.txt', 'r') as f:
+with open('F:\\learnpy\\IOprogram\\io.txt', 'r') as f:
     print(f.read())
