@@ -11,6 +11,7 @@
 import requests
 from json import loads
 
+#淘女郎-模特url地址
 #url = 'https://www.infoq.cn/public/v1/article/get_news_list'
 #url = 'https://v.taobao.com/v/content/live?catetype=704&from=taonvlang'
 url = 'https://v.taobao.com/micromission/req/selectCreatorV3.do?cateType=704&&_output_charset=UTF-8&_input_charset=UTF-8&_csrf=c63662e7-fe5c-4cae-9c6f-c86f272f2827'

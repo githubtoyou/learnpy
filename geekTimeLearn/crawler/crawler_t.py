@@ -17,11 +17,10 @@ import functools
 import unittest
 import requests
 import re
+from bs4 import BeautifulSoup
 #url = 'http://www.cnu.cc/discoveryPage/hot-人像'
 #url = 'https://movie.douban.com/'
-url = 'https://www.zhihu.com/question/267780403'
-content = requests.get(url).text
-print(content)
+
 
 #<div class="grid-item work-thumbnail">
 #<a href="http://www.cnu.cc/works/527379" class="thumbnail" target="_blank">
@@ -34,3 +33,12 @@ print(content)
 # for result in results:
 #     url, name = result
 #     print(url, re.sub('\s', '',name))
+
+
+url = 'https://www.baidu.com'
+html = requests.get(url)
+html.encoding = 'utf-8'
+soup = BeautifulSoup(html.text,'lxml')
+#print(soup.prettify()) #返回网页源代码
+#print('###title ###')
+print(type(soup.a.string))
