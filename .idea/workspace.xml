@@ -2,15 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="736f6f52-c78c-41f7-8d61-14e537aab89e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/geekTimeLearn/crawler/downloadPicture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/geekTimeLearn/machineLearn/models-master/crawlerPicture.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/taonvlang/cPicture.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekTimeLearn/crawler/selenium_t.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/geekTimeLearn/crawler/test.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekTimeLearn/crawler/crawler_t.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekTimeLearn/crawler/crawler_t.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekTimeLearn/crawler/requests_headers.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekTimeLearn/crawler/requests_headers.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/geekTimeLearn/machineLearn/bs4_t2.py" beforeDir="false" afterPath="$PROJECT_DIR$/geekTimeLearn/machineLearn/bs4_t2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taonvlang/spider.py" beforeDir="false" afterPath="$PROJECT_DIR$/taonvlang/spider.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/taonvlang/str_to_json.py" beforeDir="false" afterPath="$PROJECT_DIR$/taonvlang/str_to_json.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -23,73 +17,13 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/crawler_t.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="345">
-              <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
-              <folding>
-                <element signature="e#285#294#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geekTimeLearn/machineLearn/bs4_t2.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="374">
-              <caret line="35" column="15" selection-start-line="34" selection-end-line="38" selection-end-column="39" />
-              <folding>
-                <element signature="e#282#293#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/geekTimeLearn/machineLearn/models-master/crawlerPicture.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-220">
-              <caret line="29" column="46" selection-end-line="78" />
-              <folding>
-                <element signature="e#113#124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/downloadPicture.py">
+        <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/selenium_t.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="41">
-              <caret line="88" column="56" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
+            <state relative-caret-position="218">
+              <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
               <folding>
-                <element signature="e#113#124#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processAndThread/multiProcess.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="66">
-              <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="81" selection-end-column="18" />
-              <folding>
-                <element signature="e#105#161#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/processAndThread/multiThread.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="88">
-              <caret line="25" selection-start-line="25" selection-end-line="25" />
-              <folding>
-                <element signature="e#116#172#0" expanded="true" />
+                <element signature="e#141#171#0" expanded="true" />
               </folding>
             </state>
           </provider>
@@ -126,11 +60,12 @@
       <find>##########</find>
       <find>1622477181519.JPG</find>
       <find>#######################</find>
+      <find>task_done</find>
     </findStrings>
     <dirStrings>
       <dir>F:\learnpy\advanced-oom</dir>
-      <dir>F:\learnpy</dir>
       <dir>F:\learnpy\builtInModule</dir>
+      <dir>F:\learnpy</dir>
     </dirStrings>
   </component>
   <component name="Git.Settings">
@@ -139,9 +74,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/advanced-oom/unum.py" />
-        <option value="$PROJECT_DIR$/advanced-oom/costom-madeClass.py" />
-        <option value="$PROJECT_DIR$/advanced-oom/metaClass.py" />
         <option value="$PROJECT_DIR$/error-test/error.py" />
         <option value="$PROJECT_DIR$/error-test/errorProcess.py" />
         <option value="$PROJECT_DIR$/error-test/debug.py" />
@@ -157,7 +89,6 @@
         <option value="$PROJECT_DIR$/processAndThread/ThreadLocal.py" />
         <option value="$PROJECT_DIR$/processAndThread/task_worker.py" />
         <option value="$PROJECT_DIR$/processAndThread/distributedProcess.py" />
-        <option value="$PROJECT_DIR$/processAndThread/producerConsumer.py" />
         <option value="$PROJECT_DIR$/re/re1.py" />
         <option value="$PROJECT_DIR$/builtInModule/datetime-collections-base64-struct-hashlib.py" />
         <option value="$PROJECT_DIR$/builtInModule/collections.py" />
@@ -190,14 +121,18 @@
         <option value="$PROJECT_DIR$/taonvlang/str_to_json.py" />
         <option value="$PROJECT_DIR$/geekTimeLearn/machineLearn/models-master/crawlerPicture.py" />
         <option value="$PROJECT_DIR$/geekTimeLearn/crawler/downloadPicture.py" />
+        <option value="$PROJECT_DIR$/processAndThread/producerConsumer.py" />
+        <option value="$PROJECT_DIR$/geekTimeLearn/crawler/test.py" />
+        <option value="$PROJECT_DIR$/geekTimeLearn/crawler/selenium.py" />
+        <option value="$PROJECT_DIR$/geekTimeLearn/crawler/selenium_t.py" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="373" />
-    <option name="y" value="307" />
-    <option name="width" value="1386" />
-    <option name="height" value="1037" />
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="905" />
+    <option name="height" value="935" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="2" id="Add" />
@@ -225,6 +160,17 @@
               <item name="geekTimeLearn" type="462c0819:PsiDirectoryNode" />
               <item name="crawler" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="learnpy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnpy" type="462c0819:PsiDirectoryNode" />
+              <item name="geekTimeLearn" type="462c0819:PsiDirectoryNode" />
+              <item name="machineLearn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="learnpy" type="b2602c69:ProjectViewProjectNode" />
+              <item name="learnpy" type="462c0819:PsiDirectoryNode" />
+              <item name="processAndThread" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
@@ -235,7 +181,7 @@
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="last_opened_file_path" value="E:/install--hq/python372/Scripts/autopep8.exe" />
-    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
@@ -255,7 +201,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.downloadPicture">
+  <component name="RunManager" selected="Python.selenium_t">
     <configuration name="0322lxf" type="PythonConfigurationType" factoryName="Python">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -269,48 +215,6 @@
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <option name="SCRIPT_NAME" value="F:\learnpy\oom\0322lxf.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="bs4_t2" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekTimeLearn/machineLearn" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekTimeLearn/machineLearn/bs4_t2.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="cPicture" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="learnpy" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/taonvlang" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taonvlang/cPicture.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -403,7 +307,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="str_to_json" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="selenium" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="learnpy" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -411,11 +315,32 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/taonvlang" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekTimeLearn/crawler" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/taonvlang/str_to_json.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekTimeLearn/crawler/selenium.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="selenium_t" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekTimeLearn/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekTimeLearn/crawler/selenium_t.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -445,13 +370,34 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="learnpy" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/geekTimeLearn/crawler" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/geekTimeLearn/crawler/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Python.selenium_t" />
+        <item itemvalue="Python.selenium" />
+        <item itemvalue="Python.test" />
         <item itemvalue="Python.downloadPicture" />
         <item itemvalue="Python.crawlerPicture" />
-        <item itemvalue="Python.str_to_json" />
-        <item itemvalue="Python.cPicture" />
-        <item itemvalue="Python.bs4_t2" />
       </list>
     </recent_temporary>
   </component>
@@ -557,7 +503,14 @@
       <option name="project" value="LOCAL" />
       <updated>1622166549242</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="ll">
+      <created>1622691535382</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1622691535382</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TodoView">
@@ -571,17 +524,18 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49822065" weight="0.34299263" />
+      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.49822065" weight="0.34246576" />
       <window_info id="Structure" order="1" sideWeight="0.5017794" side_tool="true" weight="0.27566963" />
       <window_info id="Favorites" order="2" sideWeight="0.5017794" side_tool="true" weight="0.27566963" />
-      <window_info anchor="bottom" id="Version Control" order="0" weight="0.3283082" />
+      <window_info anchor="bottom" id="Version Control" order="0" weight="0.24295011" />
       <window_info anchor="bottom" id="Python Console" order="1" weight="0.32786885" />
       <window_info anchor="bottom" id="Event Log" order="2" sideWeight="0.6480506" side_tool="true" weight="0.5976139" />
       <window_info anchor="bottom" id="Message" order="3" />
-      <window_info anchor="bottom" id="Find" order="4" weight="0.30777657" />
-      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49888393" weight="0.39978093" />
-      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.35194942" visible="true" weight="0.88503253" />
+      <window_info anchor="bottom" id="Find" order="4" weight="0.30694142" />
+      <window_info anchor="bottom" id="Terminal" order="5" sideWeight="0.49888393" weight="0.40545455" />
+      <window_info active="true" anchor="bottom" id="Run" order="6" sideWeight="0.35194942" visible="true" weight="0.39587852" />
       <window_info anchor="bottom" id="Debug" order="7" weight="0.3409396" />
       <window_info anchor="bottom" id="Cvs" order="8" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="9" weight="0.4" />
@@ -761,27 +715,6 @@
     </breakpoint-manager>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/oom/test.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-315">
-          <caret selection-end-line="3" selection-end-column="10" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/error-test/debug.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="95">
-          <caret line="5" lean-forward="true" selection-start-line="5" selection-end-line="5" />
-          <folding>
-            <element signature="e#24#33#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/error-test/111.py" />
     <entry file="file://$PROJECT_DIR$/error-test/errorProcess.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="152">
@@ -854,16 +787,6 @@
           <caret line="17" column="46" lean-forward="true" selection-start-line="17" selection-start-column="46" selection-end-line="17" selection-end-column="46" />
           <folding>
             <element signature="e#96#152#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/processAndThread/producerConsumer.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="35">
-          <caret line="28" column="20" lean-forward="true" selection-start-line="28" selection-start-column="20" selection-end-line="28" selection-end-column="20" />
-          <folding>
-            <element signature="e#108#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1112,16 +1035,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geekTimeLearn/machineLearn/bs4_t2.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="374">
-          <caret line="35" column="15" selection-start-line="34" selection-end-line="38" selection-end-column="39" />
-          <folding>
-            <element signature="e#282#293#0" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/taonvlang/cPicture.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="116">
@@ -1139,12 +1052,22 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/crawler_t.py">
+    <entry file="file://$PROJECT_DIR$/geekTimeLearn/machineLearn/models-master/crawlerPicture.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="345">
-          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+        <state relative-caret-position="-220">
+          <caret line="29" column="46" selection-end-line="78" />
           <folding>
-            <element signature="e#285#294#0" expanded="true" />
+            <element signature="e#113#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processAndThread/producerConsumer.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="718">
+          <caret line="35" column="54" selection-start-line="35" selection-start-column="54" selection-end-line="35" selection-end-column="54" />
+          <folding>
+            <element signature="e#108#164#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -1159,32 +1082,69 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/downloadPicture.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1683">
+          <caret line="83" column="14" selection-start-line="83" selection-start-column="14" selection-end-line="83" selection-end-column="14" />
+          <folding>
+            <element signature="e#113#124#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/processAndThread/multiProcess.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="66">
-          <caret line="63" column="4" selection-start-line="63" selection-start-column="4" selection-end-line="81" selection-end-column="18" />
+        <state relative-caret-position="227">
+          <caret line="68" column="12" selection-start-line="68" selection-start-column="12" selection-end-line="68" selection-end-column="12" />
           <folding>
             <element signature="e#105#161#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geekTimeLearn/machineLearn/models-master/crawlerPicture.py">
+    <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/test.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-220">
-          <caret line="29" column="46" selection-end-line="78" />
+        <state relative-caret-position="347">
+          <caret line="33" selection-start-line="33" selection-end-line="33" />
           <folding>
-            <element signature="e#113#124#0" expanded="true" />
+            <element signature="e#269#325#0" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/downloadPicture.py">
+    <entry file="file://$PROJECT_DIR$/geekTimeLearn/machineLearn/bs4_t2.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="41">
-          <caret line="88" column="56" selection-start-line="88" selection-start-column="56" selection-end-line="88" selection-end-column="56" />
+        <state relative-caret-position="374">
+          <caret line="35" column="15" selection-start-line="34" selection-end-line="38" selection-end-column="39" />
           <folding>
-            <element signature="e#113#124#0" expanded="true" />
+            <element signature="e#282#293#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/crawler_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="345">
+          <caret line="32" column="24" selection-start-line="32" selection-start-column="24" selection-end-line="32" selection-end-column="24" />
+          <folding>
+            <element signature="e#285#294#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/selenium.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret selection-end-line="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/geekTimeLearn/crawler/selenium_t.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="218">
+          <caret line="19" column="61" selection-start-line="19" selection-start-column="61" selection-end-line="19" selection-end-column="61" />
+          <folding>
+            <element signature="e#141#171#0" expanded="true" />
           </folding>
         </state>
       </provider>
