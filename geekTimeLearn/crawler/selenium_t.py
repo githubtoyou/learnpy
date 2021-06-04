@@ -15,9 +15,9 @@ driver.get('https://accounts.douban.com/passport/login')
 
 driver.find_element_by_class_name('account-tab-account').click()
 
-driver.find_element_by_id('username').send_keys('pusimple@126.com')
+driver.find_element_by_id('username').send_keys('111')
 time.sleep(2)
-driver.find_element_by_id('password').send_keys('zsxcvbnm+1')
+driver.find_element_by_id('password').send_keys('111')
 time.sleep(2)
 driver.find_element_by_link_text('登录豆瓣').click()
 # time.sleep(3)
